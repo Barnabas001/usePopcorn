@@ -121,9 +121,7 @@ Search Page	Movie Details	Watched List
 Barnabas Affonshike
 Frontend Developer passionate about building responsive, accessible, and visually appealing applications.
 
-📧 Email: marichristrav@gmail.com
-
-🌐 Website: www.sabiflyup.com
+📧 Email: barnabasolayinka@gmail.com
 
 📄 License
 
